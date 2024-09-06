@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JessicaChukwu
-- 👀 Bachelor of Engineering, MUN 2028
-- 🌱 I’m currently learning PYTHON, CSS
+- 👀 Bachelor of Computer Engineering, MUN 2028
+- 🌱 I’m currently learning PYTHON, C++, CSS
 - 💞️ I’m looking to collaborate on making health related apps.
 - 📫 How to reach me @ Jessica Chukwu|LinkedIn
 - 😄 Pronouns: she/her
